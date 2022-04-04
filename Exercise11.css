@@ -1,0 +1,117 @@
+html{
+    background-image: linear-gradient(to bottom, #000000, #0c0c0c, #0f0f0f, #141414, #181818);
+    font-family: tahoma;
+}
+
+.header{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1400px;
+    border: 2px solid #25ec00;
+    padding: 10px; 
+}
+
+#footer{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1400px;
+    border: 2px solid #25ec00;
+    padding: 10px; 
+}
+
+.icon{
+    border: 1px solid #25ec00;
+    padding: 3px;
+    width: 240px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+a{
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+    padding: 8px 8px;
+    letter-spacing: 2px;
+    border: none;
+    outline: none;
+    background: linear-gradient(to right, #0c4f00, #137600, #199d00);
+    cursor: pointer;
+    margin-right: 40px;
+    margin-left: 120px;
+    text-decoration:none;
+}
+
+button{
+    font-family: tahoma;
+    font-size:20px;
+    font-weight:600;
+    color: white;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    letter-spacing: 2px;
+    border: none;
+    outline: none;
+    background: linear-gradient(to right, #0c4f00, #137600, #199d00, #25ec00, #25ec00);
+    cursor: pointer;
+}
+
+
+#content{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1400px;
+    border: 2px solid #25ec00;
+    padding: 10px
+}
+
+#movie{
+    background-image: url(https://wallpapertops.com/walldb/original/9/9/6/719085.jpg);
+    height: 600px;
+    width: 1180px;
+    padding: 10px;
+    margin-left: 100px;
+    border: 2px solid #25ec00;
+}
+
+#food{
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/delish-190619-air-fryer-donuts-302-landscape-pf-1561758031.jpg);
+    height: 600px;
+    width: 1180px;
+    padding: 10px;
+    margin-left: 100px;
+    border: 2px solid #25ec00;
+}
+
+#game{
+    background-image: url(https://www.pcgamesn.com/wp-content/uploads/2018/07/Survival-games-Minecraft.jpg);
+    height: 600px;
+    width: 1180px;
+    padding: 10px;
+    margin-left: 100px;
+    border: 2px solid #25ec00;
+}
+
+p{
+    font-weight: bolder;
+    font-size:25px;
+    color: #ffffff;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+h1{
+    background-image: linear-gradient(to bottom, #0c4f00, #137600, #199d00, #25ec00, #25ec00);
+    color:transparent;
+    -webkit-background-clip: text;
+    font-size: 40px;
+}
+
+h3{
+    background-image: linear-gradient(to bottom, #0c4f00, #137600, #199d00, #25ec00, #25ec00);
+    color:transparent;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+}
